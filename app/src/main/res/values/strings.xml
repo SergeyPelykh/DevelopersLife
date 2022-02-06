@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="button_last">last</string>
+    <string name="button_top">top</string>
+    <string name="button_hot">hot</string>
+    <string name="button_random">random</string>
+    <string name="image_description">animated_image</string>
+    <string name="hint_text">some text</string>
+    <string name="button_next">next</string>
+    <string name="button_prev">prev</string>
+</resources>
